@@ -1,7 +1,7 @@
 # Integrating vis.js with Nuxt
 
 This repository is designed to show integrating vis.js with Nuxt.
-Cancel changes
+
 Best regards to the https://github.com/sjmallon/vue-visjs.
 
 ## Demo
