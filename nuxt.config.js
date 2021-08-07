@@ -16,6 +16,13 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [
+      {
+        crossorigin: "anonymous",
+        async: true,
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4201106343277001'
+      }
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
